@@ -1,4 +1,4 @@
-![logo](https://github.com/Asim-kamal/Asim-kamal/blob/main/Black%20and%20Red%20Edgy%20Gaming%20Youtube%20Banner_20250101_090939_0000.png)
+![logo](https://github.com/Asim-kamal/Asim-kamal/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner_20250101_162507_0000.png)
 <h1 align="center">Hi 👋, I'm Asim Kamal</h1>
 <h3 align="center">A passionate web developer from pakistan</h3>
 
